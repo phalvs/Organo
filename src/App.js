@@ -43,6 +43,8 @@ function App() {
       favorito: false,
       nome: 'Mobile',
       cor: '#FFBA05'
+
+      
     },
     {
       id: uuidv4(),
